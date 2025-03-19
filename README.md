@@ -1,2 +1,2 @@
 # Portfolio
-This is  portfolio website that i coded using HTML, CS and JS
+This  a is  portfolio website that i coded using HTML, CS and JS
